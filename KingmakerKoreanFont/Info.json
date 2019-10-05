@@ -1,0 +1,10 @@
+﻿{
+  "Id": "KingmakerKoreanFont",
+  "DisplayName": "Korean Font MOD",
+  "Author": "Akintos47",
+  "Version": "0.1.0",
+  "ManagerVersion": "0.21.1.0",
+  "Requirements": [],
+  "AssemblyName": "KingmakerKoreanFont.dll",
+  "EntryMethod": "KingmakerKoreanFont.Main.Load"
+}
